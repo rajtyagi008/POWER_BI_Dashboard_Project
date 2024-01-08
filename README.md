@@ -1,3 +1,3 @@
 # POWER_BI_Dashboard_Project
 
-This project having dashboard on e-commerce data.
+This project having power_bi_dashboard on e-commerce data.
